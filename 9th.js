@@ -9,9 +9,10 @@ function foo() {
 }
 console.log(foo()); //Instead of alert(foo());
 
+//Possible answers:
 //3
 //8
 //Error
 //Kita:
-//
+
 //correnct answer: 3

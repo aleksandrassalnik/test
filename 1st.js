@@ -9,6 +9,8 @@ function printSomething() {
 printSomething();
 
 //Possible answers: 1  2  undefined  Error
+
+//Question:
 //first console.log(n)?
 //second consle.log(n)?
 

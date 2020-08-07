@@ -16,5 +16,7 @@ var test = obj.prop.getFullName;
 console.log(test());
 
 //Possible answers: "John Doe"  "Colin Ihgrid"  "Aurelio De Rosa"  undefined  Error
+
+//Question:
 //console.log(obj.prop.getFullName());?
 //console.log(test());

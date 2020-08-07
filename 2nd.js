@@ -11,5 +11,7 @@ function test () {
 test();
   
 //Possible answers: 1  2  undefined  null  Error
+
+//Question:
 //console.log(a)?
 //console.log(foor())?

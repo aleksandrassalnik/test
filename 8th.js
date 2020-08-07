@@ -9,9 +9,10 @@ function foo() {
     };
 }
 
+//Possible answers:
 //3
 //8
 //Error
 //Kita:
-//
+
 //Correct answer: 3
