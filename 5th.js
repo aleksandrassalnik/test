@@ -38,5 +38,7 @@ console.log(arr);
 //Object with empty ods and evens properties
 //undefined
 //Error
+
+//Question:
 //console.log(fun) //function?
 //console.log(arr) //fat arrow?
